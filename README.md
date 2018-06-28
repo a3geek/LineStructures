@@ -40,4 +40,4 @@ void Start()
 - 各構造体は`DrawGizmos`メソッドによって、現状の設定をGizmosで表示させることができます。
 
 ## Screenshots
-![screen shot](./Docs/Screenshot.png)
+![screen shot](./Docs/ScreenShot.png)
