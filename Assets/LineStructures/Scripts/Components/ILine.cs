@@ -4,7 +4,7 @@ using System.Linq;
 using System;
 using UnityEngine;
 
-namespace a3geek.LineStructures.Components
+namespace LineStructures.Components
 {
     [Serializable]
     public enum LineType

@@ -4,7 +4,7 @@ using System.Linq;
 using System;
 using UnityEngine;
 
-namespace a3geek.LineStructures
+namespace LineStructures
 {
     using Components;
     using Dic = Dictionary<Components.LineType, Dictionary<Components.LineType, Func<Components.ILine, Components.ILine, Vector2>>>;

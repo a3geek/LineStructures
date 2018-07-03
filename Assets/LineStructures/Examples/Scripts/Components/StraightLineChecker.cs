@@ -4,7 +4,7 @@ using System.Linq;
 using System;
 using UnityEngine;
 
-namespace a3geek.LineStructures.Examples.Components
+namespace LineStructures.Examples.Components
 {
     using LineStructures.Components;
 
